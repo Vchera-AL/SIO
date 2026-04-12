@@ -1,7 +1,3 @@
-/* ===================================================
-   script.js — Nicolas Canadell Portfolio v3
-   =================================================== */
-
 /* ── 1. REVEAL AU SCROLL ── */
 const revealEls = document.querySelectorAll('.reveal');
 const tlItems   = document.querySelectorAll('.tl-item');
